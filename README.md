@@ -1,4 +1,4 @@
-### Hi, I am Sinha Afroz 👋
+### <h3 align="center">Hi, I am Sinha Afroz 👋 </h3>
 <h3 align="center">I am currently working as a Junior Software Engineer in Dhaka, Bangladesh.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
