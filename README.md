@@ -2,7 +2,7 @@
 
 
 
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+- 📫 How to reach me: [Email](mailto:sinhaafroz16@gmail.com) | [LinkedIn](https://linkedin.com/in/sinha-afroz) | [Portfolio](https://sites.google.com/view/sinhaafroz)
 
 ## 🛠️ Technologies & Tools
 
@@ -28,11 +28,9 @@
 ## 🌟 Achievements
 - Co-author of a published paper at **CNIOT'23** on **Real-Time Face Recognition with Masks**.
 - **Junior Software Engineer** at Dhaka Popular Travel Ltd., focused on **Frontend** and **Backend** development, as well as **Python scripting** and **Docker deployment**.
-- Experience in deploying machine learning models through **Flask-based applications**.
 
-## 🏆 Let's Collaborate!
 
-I'm always open to collaborating on interesting projects related to **Machine Learning**, **Data Science**, and **Computer Vision**. Feel free to reach out!
+
 
 
 <!--### <h3 align="center">Hi, I am Sinha Afroz 👋 </h3>
