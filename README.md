@@ -7,8 +7,7 @@
 ## 🛠️ Technologies & Tools
 
 **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)  
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) ![OpenGL](https://img.shields.io/badge/-OpenGL-333?style=flat&logo=opengl)  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c) ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) ![OpenGL](https://img.shields.io/badge/-OpenGL-333?style=flat&logo=opengl)  
 
 **Libraries**  
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy) ![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat&logo=seaborn) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
