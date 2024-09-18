@@ -28,7 +28,7 @@
 **Scripting Languages**  
 ![LATEX](https://img.shields.io/badge/-LATEX-333?style=flat&logo=latex) ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-333?style=flat&logo=linux)
 
-🌐 Explore my portfolio to know more about me: [Google Sites Portfolio] [Portfolio](https://sites.google.com/view/sinhaafroz)
+🌐 Explore my portfolio to know more about me: [Portfolio](https://sites.google.com/view/sinhaafroz)
 
 <!--### <h3 align="center">Hi, I am Sinha Afroz 👋 </h3>
 
