@@ -20,7 +20,7 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visual-studio-code) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-333?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333?style=flat&logo=anaconda) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 
-**Databases**  
+**Database**  
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 
 **Version Control**  
