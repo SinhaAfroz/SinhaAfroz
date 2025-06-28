@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Email](mailto:sinhaafroz16@gmail.com) | [LinkedIn](https://linkedin.com/in/sinha-afroz)
 - 🌐 Explore my portfolio to know more about me: [Portfolio](https://sites.google.com/view/sinhaafroz)
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c) ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) ![OpenGL](https://img.shields.io/badge/-OpenGL-333?style=flat&logo=opengl)  
