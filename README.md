@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me: [Email](mailto:sinhaafroz16@gmail.com) | [LinkedIn](https://linkedin.com/in/sinha-afroz)
-- 🌐 Explore my portfolio to know more about me: [Portfolio](https://sites.google.com/view/sinhaafroz)
+
 
 ### 🛠️ Technologies & Tools
 
