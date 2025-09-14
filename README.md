@@ -1,10 +1,6 @@
 # 👋 Hello, I'm Sinha Afroz!
 
 
-
-- 📫 How to reach me: [Email](mailto:sinhaafroz16@gmail.com) | [LinkedIn](https://linkedin.com/in/sinha-afroz)
-
-
 ### 🛠️ Technologies & Tools
 
 **Programming Languages**  
