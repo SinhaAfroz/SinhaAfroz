@@ -1,10 +1,14 @@
 # 👋 Hello, I'm Sinha Afroz
 
 Graduate Research Assistant | Ph.D. Student in Computer Science | XR/VR Researcher
-
+<!--
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SinhaAfroz&label=Profile%20views&color=129e00&style=plastic" alt="SinhaAfroz" />
+</p>
+-->
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
@@ -48,3 +52,40 @@ Graduate Research Assistant | Ph.D. Student in Computer Science | XR/VR Research
 **Other / Scripting & Documentation**  
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex) 
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-333?style=flat&logo=linux) 
+
+---
+
+### Research Interests
+- XR/VR Systems & Multi-User Immersive Environments
+- Computer Vision
+- Human-Computer Interaction
+- Machine Learning & AI
+
+---
+<!--
+### Publications
+
+#### Conference Publications
+- Md. Ashif Mahmud Joy, Md. Fuad Hasan Khan Chowdhury, **Sinha Afroz**, Md. Nurul Islam, Ruaida Muhsinat, Mukta Akanda Moly, Dewan Md. Farid – **Real-Time Face Recognition with Mask using Deep Convolutional Neural Network**, CNIOT’23: 2023 4th International Conference on Computing, Networks and Internet of Things, Xiamen, China, May 26–28, 2023, pp. 457–461. [DOI](#)  
+
+- **Sinha Afroz**, Devon Haynes, Reece Freeman, Mason Prather, Feiyu Lu, Brooke Zhao, Joy Li, Sungchul Jung, Lei Zhang – **Beyond Slices: A Narrative-Driven, Multi-User, Multi-Modal Virtual Reality System for Medical Imaging Presentation**, 2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+
+
+---
+### 📊 GitHub Stats
+<a href="https://github.com/SinhaAfroz">
+  <img align="center" style="margin:0.5rem" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaAfroz&show_icons=true&theme=gotham" />
+</a>
+
+<a href="https://github.com/SinhaAfroz">
+  <img align="center" style="margin:0.5rem" 
+       src="https://github-readme-stats.vercel.app/api?username=SinhaAfroz&show_icons=true&theme=gotham" 
+       alt="SinhaAfroz" />
+</a>
+-->
+---
+
+### 📫 Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-Sinha_Afroz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinha-afroz/)
+[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail)](mailto:sinhaafroz16@gmail.com)
