@@ -63,6 +63,22 @@ Graduate Research Assistant | Ph.D. Student in Computer Science | XR/VR Research
 
 ---
 <!--
+## Publications
+
+### Conference Papers
+
+1. Md. Ashif Mahmud Joy, Md. Fuad Hasan Khan Chowdhury,**_Sinha Afroz_**, Md. Nurul Islam, Ruaida Muhsinat, Mukta Akanda Moly, Dewan Md. Farid  
+   **Real-Time Face Recognition with Mask using Deep Convolutional Neural Network**  
+   *CNIOT’23: 2023 4th International Conference on Computing, Networks and Internet of Things, Xiamen, China, May 26–28, 2023, pp. 457–461.*  
+   [📄 Read Paper](https://www.researchgate.net/publication/372694340_Real-Time_Face_Recognition_with_Mask_using_Deep_Convolutional_Neural_Network)  
+
+2. **_Sinha Afroz_**, Devon Haynes, Reece Freeman, Mason Prather, Feiyu Lu, Brooke Zhao, Joy Li, Sungchul Jung, Lei Zhang  
+   **Beyond Slices: A Narrative-Driven, Multi-User, Multi-Modal Virtual Reality System for Medical Imaging Presentation**  
+   *2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 3DUI Contest Demo.*  
+   [🔗 Conference Program](https://ieeevr.org/2026/contribute/3dui-contest/)  
+   
+
+
 ### Publications
 
 #### Conference Publications
