@@ -9,7 +9,7 @@ Graduate Research Assistant | Ph.D. Student in Computer Science | XR/VR Research
 ---
 
 ### Research Interests
-- XR/VR Systems & Multi-User Immersive Environments
+- XR/VR
 - Computer Vision
 - Human-Computer Interaction
 - Machine Learning & AI
