@@ -28,7 +28,7 @@ Graduate Research Assistant | Ph.D. Student in Computer Science | XR/VR Research
 1. **_Sinha Afroz_**, Devon Haynes, Reece Freeman, Mason Prather, Feiyu Lu, Brooke Zhao, Joy Li, Sungchul Jung, Lei Zhang, **Beyond Slices: A Narrative-Driven, Multi-User, Multi-Modal Virtual Reality System for Medical Imaging Presentation**, *2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 3DUI Contest Demo.*
 [🔗 Conference Program](https://ieeevr.org/2026/contribute/3dui-contest/)
 
-2. **_Sinha Afroz_**, Lei Zhang, **Immersive Extended Reality (XR) in Oncology: A Scoping Review of Virtual Reality (VR) and Mixed Reality (MR) Applications for 3D Solid Tumor Visualization**, *Frontiers in Virtual Reality*
+2. **_Sinha Afroz_**, Lei Zhang, **Immersive Extended Reality (XR) in Oncology: A Scoping Review of Virtual Reality (VR) and Mixed Reality (MR) Applications for 3D Solid Tumor Visualization**, *Frontiers in Virtual Reality*, 2026
 
 --- 
 
