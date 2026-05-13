@@ -12,7 +12,6 @@ Graduate Research Assistant | Ph.D. Student in Computer Science | XR/VR Research
 - XR/VR
 - Computer Vision
 - Human-Computer Interaction
-- Machine Learning & AI
 
 ---
 
